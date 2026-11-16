@@ -30,7 +30,7 @@ I specialize in transforming UI/UX designs from Figma into clean, semantic, pixe
 
 * 🌐 **[Personal Frontend Portfolio](https://aziz208080.github.io/frontend-portfolio/)** — My main showcase featuring responsive landing pages, UI/UX implementations, and interactive JavaScript animations *(HTML5 / Tailwind CSS / JavaScript)*
 * 💻 **[Portfolio Source Code](https://github.com/aziz208080/frontend-portfolio)** — Clean, semantic codebase for my personal website
-* * 🎧 **[Beats Product Landing](https://aziz208080.github.io/beats-landing/)** — Responsive e-commerce landing page with dark UI and scroll animations *(HTML5 / CSS3 / JavaScript)* — [Source Code](https://github.com/aziz208080/beats-landing)
+* 🎧 **[Beats Product Landing](https://aziz208080.github.io/beats-landing/)** — Responsive e-commerce landing page with dark UI and scroll animations *(HTML5 / CSS3 / JavaScript)* — [Source Code](https://github.com/aziz208080/beats-landing)
 
 ---
 
