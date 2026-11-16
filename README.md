@@ -24,14 +24,17 @@ I specialize in transforming UI/UX designs from Figma into clean, semantic, pixe
 
 ---
 
-### 🚀 Featured Projects
-*(Check out my pinned repositories below for live demos and source code)*
+## 🚀 Featured Projects
 
-* **[Project Name 1](https://github.com/aziz208080)** — Responsive Landing Page built from Figma (*HTML5 / CSS3 / JS*)
-* **[Project Name 2](https://github.com/aziz208080)** — Interactive Web Application (*JavaScript / Responsive Design*)
+*(Check out my live portfolio website and repositories below)*
+
+* 🌐 **[Personal Frontend Portfolio](https://aziz208080.github.io/frontend-portfolio/)** — My main showcase featuring responsive landing pages, UI/UX implementations, and interactive JavaScript animations *(HTML5 / Tailwind CSS / JavaScript)*
+* 💻 **[Portfolio Source Code](https://github.com/aziz208080/frontend-portfolio)** — Clean, semantic codebase for my personal website
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
+
+* **Portfolio Website:** [aziz208080.github.io/frontend-portfolio](https://aziz208080.github.io/frontend-portfolio/)
 * **GitHub:** [@aziz208080](https://github.com/aziz208080)
 * **Location:** Samarkand, Uzbekistan
